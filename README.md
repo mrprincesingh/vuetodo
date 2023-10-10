@@ -31,7 +31,9 @@ Just download the Zip file, and extract the file. Navigate to the root directory
    - `Bootstrap`
 - #### For live Project: -
    - `Vercel`
- | Serial No            | Feature                                                              |
+
+  
+| Serial No            | Feature                                                              |
 | ----------------- | ------------------------------------------------------ |
 | 1 | User signup and Login, Profile Page for User |
 | 2 | Home Page, To request a course |
