@@ -33,9 +33,3 @@ Just download the Zip file, and extract the file. Navigate to the root directory
    - `Vercel`
 
   
-| Serial No            | Feature                                                              |
-| ----------------- | ------------------------------------------------------ |
-| 1 | User signup and Login, Profile Page for User |
-| 2 | Home Page, To request a course |
-| 3 | Course page, search & filter course, about page  |
-| 4 | Watch lecture Page, Add to playlist |
